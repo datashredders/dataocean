@@ -1,0 +1,28 @@
+/* .dropdown {
+  height: 1rem;
+}
+.dropdown-menu {
+  width: 15rem;
+  text-align: center;
+  color: black;
+  background: rgb(21, 156, 201);
+  position: relative;
+}
+.dropdown-menu:hover {
+  color: white;
+  background: rgb(236, 16, 16);
+}
+.dropdown-list {
+  list-style-type: none;
+  position: absolute;
+  bottom: -7.5rem;
+  left: 0;
+  width: 100%;
+  background: rgb(195, 6, 6);
+}
+.dropdown-list > li {
+  border: 1px solid transparent;
+}
+.dropdown-list > li:hover {
+  border: 1px solid white;
+} */
