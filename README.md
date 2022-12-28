@@ -1,2 +1,2 @@
 # dataocean
-Yukarıdaki main'i master yaparak projeye ulaşabilirsiniz.
+Yukarıdaki main branch'ını master yaparak projeye ulaşabilirsiniz.
